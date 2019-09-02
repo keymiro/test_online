@@ -1,6 +1,6 @@
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
 
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
+<nav class="navbar navbar-expand-sm bg-p navbar-dark fixed-top">
     <a class="navbar-brand main-title" href="#"> <h2>Test Online</h2></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01"
             aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
@@ -29,11 +29,11 @@
                 <a class="nav-link" href="#section6">Section 6</a>
             </li>
 
-        </ul>
+
 
 
         <div class="dropdown dropdown-menu-right">
-            <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+            <button type="button" class="btn btn-outline-light dropdown-toggle" data-toggle="dropdown">
                 Iniciar Sesion
             </button>
             <div class="dropdown-menu">
@@ -42,6 +42,8 @@
 
             </div>
         </div>
+        </ul>
     </div>
+
 
 </nav>
